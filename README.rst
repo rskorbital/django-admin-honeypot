@@ -2,7 +2,7 @@
 django-admin-honeypot
 =====================
 
-##Requires upgrades to work with django4+
+## Requires upgrades to work with django4+
 
 .. image:: https://travis-ci.org/dmpayton/django-admin-honeypot.svg?branch=develop
    :target: https://travis-ci.org/dmpayton/django-admin-honeypot
